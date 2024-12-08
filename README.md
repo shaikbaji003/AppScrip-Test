@@ -39,4 +39,3 @@ Explore the live application here: [**Appscrip E-commerce**](https://appscripeco
      
 ### 👨‍💻 Author
 Developed by : Baji Shaik
-For queries, contact: shaikbaji003@gmail.com
