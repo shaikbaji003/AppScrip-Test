@@ -1,10 +1,8 @@
 ****Appscrip E-commerce Task
-**
-This repository showcases the implementation of an e-commerce design task derived from the provided Figma design. The application is built using React.js with the Next.js framework, emphasizing responsive design, SEO optimization, and dynamic content rendering for a seamless user experience.
+**This repository showcases the implementation of an e-commerce design task derived from the provided Figma design. The application is built using React.js with the Next.js framework, emphasizing responsive design, SEO optimization, and dynamic content rendering for a seamless user experience.
 
 **🚀 Live Demo
-**
-Explore the live application here: Appscrip E-commerce
+**Explore the live application here: Appscrip E-commerce
 
 📌 Features
 1. Server-Side Rendering (SSR)
