@@ -1,4 +1,4 @@
-//Appscrip E-commerce Task
+Appscrip E-commerce Task
 This repository showcases the implementation of an e-commerce design task from the provided Figma design. The application has been developed using React.js with the Next.js framework, demonstrating responsive, SEO-optimized, and dynamic content rendering.
 
 Live Demo
