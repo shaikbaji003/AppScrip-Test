@@ -36,4 +36,7 @@ Explore the live application here: [**Appscrip E-commerce**](https://appscripeco
 
 ### 6. **Minimal Dependencies**
    - Focused on performance with clean implementation using minimal third-party libraries.
-
+     
+### 👨‍💻 Author
+Developed by : Baji Shaik
+For queries, contact: shaikbaji003@gmail.com
